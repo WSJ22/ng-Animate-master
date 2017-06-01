@@ -32,6 +32,5 @@ ngAnimate only supports `angularjs 1.2` - because it based on the AngularJS 1.2 
 3. Add `animate class` in html elements which you want have some effect.
 4. Done!
 
-## DEMO ##
-http://augus.github.io/ngAnimate/
+
 
